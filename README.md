@@ -1,9 +1,9 @@
 ### Hi there 👋
-
+![Snake gif](https://github.com/Aryanlivi/Aryanlivi/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 
 **Aryanlivi/Aryanlivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Snake gif](https://github.com/Aryanlivi/Aryanlivi/blob/main/output/github-contribution-grid-snake.gif)
+
 
 Here are some ideas to get you started:
 
