@@ -1,10 +1,12 @@
 ### Hi there 👋
 <a href="">
   <img align="centre" src="https://github-readme-stats.vercel.app/api?username=aryanlivi&hide=issues,contribs&count_private=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a/>
-![Snake gif](https://github.com/Aryanlivi/Aryanlivi/blob/main/output/github-contribution-grid-snake.gif)
-<!--
+<a />
 
+
+<!-- ####Snake
+![Snake gif](https://github.com/Aryanlivi/Aryanlivi/blob/main/output/github-contribution-grid-snake.gif)
+--->
 **Aryanlivi/Aryanlivi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
