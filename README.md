@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryanlivi)](https://github.com/aryanlivi/github-readme-stats)
+![Aryan's github stats](https://github-readme-stats.vercel.app/api?username=Aryanlivi)]
 ![Snake gif](https://github.com/Aryanlivi/Aryanlivi/blob/main/output/github-contribution-grid-snake.gif)
 <!--
 
